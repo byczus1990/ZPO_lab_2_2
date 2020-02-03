@@ -7,7 +7,7 @@ odch. standardowym 30 (ale czas nie może być krótszy niż 250s ani dłuższy 
 tj. jeśli wylosuje się np. 246s, to przyjmujemy 250s, a jeśli wylosuje się 381s, to
 przyjmujemy 370s).
 Nazwiska kolarzy (bez imion) mają być wzięte losowo z pliku:
-http://szgrabowski.kis.p.lodz.pl/zpo17/nazwiska.txt (który jest odczytywany spod
+https://drive.google.com/uc?export=download&id=1rElwhvoaez2v7zwC_8w7kBt8ma8LJKz0 (który jest odczytywany spod
 swojego URLa, tj. proszę go nie ściągać wcześniej na dysk), nie dopuszczamy do
 powtórzeń nazwisk. Plik zakodowany jest w UTF-8.
 W symulacji 1 sekunda czasu rzeczywistego ma odpowiadać 25s czasu
