@@ -9,6 +9,7 @@ public class SbStarter {
 		// TODO Auto-generated method stub\
 		
 		SbRace r = new SbRace();
+		r.createLogger();
 		r.generateSurrnameList();
 		r.doTheRace();
 	    
